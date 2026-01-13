@@ -36,7 +36,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    Committed to writing **Clean, Scalable, and Maintainable Code**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Responsive Design patterns or Efficient Component Architecture**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fast development cycle using **Modern Frameworks and Best Practices**. <br>
-
+<hr></hr>
 <div align="center" >
 
 
