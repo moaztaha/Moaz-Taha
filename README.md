@@ -5,8 +5,7 @@
 
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=HITS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Moaz_TahaE&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Moaz-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) <br>
 </div>
 
@@ -56,7 +55,6 @@
 Code Cycle
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Fixing Bugs"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Clean Code"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works!"/>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Fixing Bugs"/> 
 
 </div>
