@@ -31,19 +31,7 @@
 ![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
-{
-  "name": "Moaz",
-  "role": "Front-End Developer",
-  "experience": "React & Next.js Expert",
-  "skills": {
-    "core": ["HTML5", "CSS3", "Modern JS"],
-    "frameworks": ["React", "Next.js"],
-    "styling": ["Tailwind", "MUI", "Bootstrap"],
-    "design_tools": ["Figma", "Adobe Photoshop"],
-    "concepts": ["Responsive Design", "REST APIs", "JSON Integration"]
-  },
-  "status": "Building responsive & pixel-perfect UIs"
-}
+
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently exploring Advanced Animations in Framer Motion. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 
