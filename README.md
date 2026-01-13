@@ -39,14 +39,6 @@
 
 <div align="center" >
 
-<details> 
-<summary><strong>🚀 More GitHub Stats</strong></summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=TahaE&show_icons=true&theme=nord&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaE&layout=compact&theme=nord&hide_border=true" width="48%">
-</details>
-
-<hr></hr>
 
 **Code Cycle**<br>
 
