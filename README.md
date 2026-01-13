@@ -4,11 +4,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MoazTaha&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
-
-<hr></hr>
-
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frontend%20Tools-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 
@@ -35,6 +30,12 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<hr></hr>
+
+
 
 ```js
 // tools_I_use organized
