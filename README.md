@@ -1,16 +1,16 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<div align="center" width="50">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME)
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frontend%20Stack-orange)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frontend%20Tools-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 
 <!-- Core -->
@@ -30,9 +30,22 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![Fetch API](https://img.shields.io/badge/Fetch_API-000000?style=flat&logo=javascript&logoColor=yellow)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-00C7B7?style=flat)
 
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
+```js
+// tools_I_use organized
+
+class AboutMe {
+  skills = {
+    Frontend: ["React", "Next.js", "JavaScript"],
+    Styling: ["HTML", "CSS", "Tailwind", "Bootstrap", "MUI"],
+    Data: ["REST APIs", "Axios", "Fetch API", "JSON"],
+    Concepts: ["Responsive Design", "Component-based Architecture"],
+    Tools: ["Git", "Figma", "VS Code"]
+  };
+}
