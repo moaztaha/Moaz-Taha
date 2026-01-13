@@ -5,7 +5,7 @@
 
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Moaz_TahaE&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=TahaE&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Moaz-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) <br>
 </div>
 
@@ -47,14 +47,15 @@
 
 <details> <summary><strong>🚀 More GitHub Stats</strong></summary>
 
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Dnord%26hide_border%3Dtrue" width="100%"> </details>
-
 <hr></hr>
 
 Code Cycle
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Fixing Bugs"/> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=
 
 </div>
